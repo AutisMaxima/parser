@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a parser for a subset of the C language that is extendable to a compiler with LLVM.
+This is a LL1 parser for a subset of the C language that is extendable to a compiler with LLVM.
 
 ## Requirements
 - C++ (a version that currently supports the current LLVM version)
